@@ -1,2 +1,2 @@
 # python-machine-learning-workshop
-Machine Learning with Python
+This is a workshop on Machine Learning with Python I took at Grinnell.
